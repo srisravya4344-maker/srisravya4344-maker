@@ -97,14 +97,6 @@ I'm a **Computer Science graduate (2026)** passionate about building full-stack 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srisravya4344-maker&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
