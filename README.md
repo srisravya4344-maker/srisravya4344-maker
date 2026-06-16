@@ -23,7 +23,7 @@ I'm a **Computer Science graduate (2026)** passionate about building full-stack 
 - 💡 I love turning ideas into production-ready apps
 - 🤝 Open to full-stack, ML/AI, and cloud DevOps roles
 - ⚡ Fun fact: I debug better with lo-fi music playing 🎵
-
+-  Open to Software Engineer, Full Stack Developer, and AI/ML opportunities
 ---
 
 ## 📫 Contact
