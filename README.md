@@ -74,16 +74,6 @@ I'm a **Computer Science graduate (2026)** passionate about building full-stack 
 
 ---
 
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="www.linkedin.com/in/sri-sravya-burugupalli-84aaa9264" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
